@@ -1,6 +1,5 @@
-# HTML-CSS-Practice
-Website Practice #1
+# Personal Website
 
-Personal Website:
+Currently under construction!
 
-sungwoonpark.com
+Personal Website: sungwoonpark.com
